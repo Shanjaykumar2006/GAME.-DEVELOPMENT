@@ -1,6 +1,6 @@
 # EX 2 : Bresenham‘s Line Drawing Algorithm
-Name:Yokeshwaran A
-Reg no:212224040374
+Name:shanjay kumaar s
+Reg no:212224230245
 **AIM :**
 
  To  implement the Bresenham’s  algorithm for line using a c coding.
